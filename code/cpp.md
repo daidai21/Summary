@@ -11,10 +11,9 @@
 - 算法（algorithms）
 - 迭代器（iterators）
 
-
 - 头文件
 ```cpp
-#include <bit/stdc++.h>
+#include <bit/stdc++.h> // cpp万能头文件
 
 #include <iostream>
 #include <cstdio>

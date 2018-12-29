@@ -32,21 +32,6 @@
 
 ### Mysql、Redis、Mangodb综述
 
-##### Mysql
-
-B+ Tree
-Hash 
-InnoDB
-MyISAM
-
-##### Redis
-
-STRING
-LIST
-SET
-HASH
-ZSET
-
-##### Mangodb
+- 各自详细在`other_skills`文件目录中
 
 ### Interview Problem
