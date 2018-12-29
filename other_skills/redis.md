@@ -1,0 +1,8 @@
+##### Redis
+
+STRING
+LIST
+SET
+HASH
+ZSET
+cd
