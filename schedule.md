@@ -1,22 +1,8 @@
 # schedule
 
 
-- [ ] 408 Base
-  - [ ] Operate System (And Computer Organization)
-  - [ ] Network
-  - [ ] Data Structure and Algorithms
-- [ ] Language
-  - [ ] Python
-  - [ ] Cpp
-- [ ] General Base
-    - [ ] Database
-    - [ ] Linux Base
-    - [ ] System Design
-    - [ ] Design Pattern
-    - [ ] Tools
-- [ ] Major
-  - [ ] Data Science
-  - [ ] Big Data
+over
+    git
 
 
 # 代码算法第一

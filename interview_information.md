@@ -4,6 +4,7 @@
 - [github 哈工大 imhuay 算法/深度学习/NLP面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - [github python 面试](https://github.com/taizilongxu/interview_python)
 - [github C/C++面试知识总结](https://github.com/huihut/interview)
+- [小土刀的面试刷题笔记](https://wdxtub.com/interview/14520848328638.html)
 - [牛客 知乎 专栏](https://www.zhihu.com/org/niu-ke-wang-53/activities)
   - 汇总：
     - https://zhuanlan.zhihu.com/p/41412900
