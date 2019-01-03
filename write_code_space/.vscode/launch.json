@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "G++",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceRoot}/a.out", //调试，也就是运行a.out文件
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceRoot}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "g++" //代表执行launch.json前先执行tasks.json中的g++指令
+        }
+    ]
+}
