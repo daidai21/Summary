@@ -2,12 +2,51 @@
 
 ### Overview
 
+- Brush Problem Link
+  - [Nowcoder](https://www.nowcoder.com/)
+    - [剑指offer](https://www.nowcoder.com/ta/coding-interviews)
+    - ... ...
+  - [Leetcode-cn](https://leetcode-cn.com/)
 
-leetcode 剑指offer
+### Catalog
 
-https://leetcode-cn.com/
+##### Data Structure
 
-### 老大
+- 数组
+- 字符串
+- 链表
+- 栈
+- 队列
+- 树
+- 图
+- 哈希
+- 堆
+
+##### Algorithm
+
+- 查找
+- 排序
+- ... ...
+
+##### Classical Algorithm Idea
+
+- 宽度优先搜索 Breadth First Search
+- 深度优先搜索 Depth First Search
+回溯法 Backtracking 
+动态规划 Dynamic Programming 
+
+##### Other Classical Algorithm
+
+- 
+
+### Interview Classical Problem
+
+
+
+***
+
+
+### Boss Said
 
 内排序 外排序
 快排 三路快排
@@ -22,32 +61,3 @@ dp 二次dp
 回溯
 分支限界
 蒙特卡罗
-
-### 清单
-
-散列表
-并查集
-哈夫曼编码
-
-算法部分
-    二分搜索 Binary Search 
-    分治 Divide Conquer 
-    宽度优先搜索 Breadth First Search 
-    深度优先搜索 Depth First Search
-    回溯法 Backtracking 
-    双指针 Two Pointers 
-    动态规划 Dynamic Programming 
-    扫描线 Scan-line algorithm
-    快排 Quick Sort
-数据结构部分
-    栈 Stack
-    队列 Queue
-    链表 Linked List 
-    数组 Array 
-    哈希表 Hash Table
-    二叉树 Binary Tree  
-    堆 Heap
-    并查集 Union Find
-    字典树 Trie
-
-### Interview Problem
