@@ -11,6 +11,7 @@
 
 - modern Operate System
 - Statistical Learning Method
+- linear_algebra_with_applications
 - ... ...
 
 ##### Language Base
@@ -42,6 +43,10 @@ algorithm and some blog about interview.
 - ... ...
 
 ##### Major
+
+- data_science
+- hadoop
+- spark
 
 ##### NowCoder Problem
 
