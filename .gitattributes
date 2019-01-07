@@ -1,4 +1,4 @@
-// language settings
+# language settings
 
 *.py linguist-language=python
 *.md linguist-language=markdown
