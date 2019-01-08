@@ -12,17 +12,9 @@
     - https://zhuanlan.zhihu.com/p/38067051
     - https://zhuanlan.zhihu.com/p/27882003
     - https://zhuanlan.zhihu.com/p/26455288
-  - 数据挖掘：
-      - https://www.nowcoder.com/discuss/52215
-      - https://www.nowcoder.com/discuss/52215
-      - https://www.nowcoder.com/discuss/52215
-      - https://www.nowcoder.com/discuss/91678?type=2&order=3&pos=18&page=1
-      - https://www.nowcoder.com/discuss/90245
-      - https://www.nowcoder.com/discuss/55739
-      - https://www.nowcoder.com/discuss/53677
-- [牛客 讨论 数据挖掘](https://www.nowcoder.com/discuss/tag/975?type=0)
+- [x] [牛客 讨论 数据挖掘](https://www.nowcoder.com/discuss/tag/975?type=0)
 - [牛客 讨论 字节跳动 面经](https://www.nowcoder.com/discuss/tag/665?type=2&order=0)
-- [牛客 讨论 数据挖掘 面经](https://www.nowcoder.com/discuss/tag/975?type=2&order=0)
+- [x] [牛客 讨论 数据挖掘 面经](https://www.nowcoder.com/discuss/tag/975?type=2&order=0)
 - [牛客 讨论 数据分析](https://www.nowcoder.com/discuss/tag/968?type=0)
 - [牛客 讨论 大数据](https://www.nowcoder.com/discuss/tag/733?type=0)
 - [牛客 讨论 机器学习](https://www.nowcoder.com/discuss/tag/974?type=0)
