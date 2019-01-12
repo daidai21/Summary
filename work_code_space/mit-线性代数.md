@@ -51,8 +51,6 @@ True
 '''
 ```
 
-### 2.矩阵消元
-
 ### 3.乘法和逆矩阵
 
 ```python
@@ -78,3 +76,36 @@ print(ans)
 [[1, 2, 4], [3, 7, 9]]
 ```
 
+### 4.逆矩阵求解
+
+https://blog.csdn.net/u010551600/article/details/81504909
+
+### 4.LU分解
+
+https://blog.csdn.net/ibunny/article/details/79414232
+
+### 5.对称矩阵
+
+```python
+
+# 定义
+matrix = [[1, 2, 3],
+          [4, 5, 6],
+          [7, 8, 9]]
+
+# 判断
+if len(matrix) == len(matrix[0]):  # 行数必须等于列数
+    print(True)
+else:
+    print(False)
+
+# 操作
+for row in range(len(matrix)):
+    for col in range(row + 1, len(matrix[0])):
+        matrix[row][col], matrix[col][row] = matrix[col][row], matrix[row][col]
+print(matrix)
+
+# 结果
+True
+[[1, 4, 7], [2, 5, 8], [3, 6, 9]]
+```
