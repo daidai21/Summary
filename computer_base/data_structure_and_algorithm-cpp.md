@@ -17,7 +17,65 @@
 '''
 KMP 算法
 '''
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
+
+// 计算模板串部分匹配表
+vector<int> pmt(string pat) {
+    vector<int> dfa;
+    for (int j = 0; j < pat.size(); j++) {
+        int max = 0;
+        for (int i = 0; i < j + 1; i++) {
+            vector<string> start, end;
+            for (int n = 0; n < i; n++) {
+                string tmp;
+                tmp = pat[n];
+                start.push_back(tmp);
+                tmp = pat[j + 1 - i];
+                end.push_back(tmp);
+            }
+            if (start == end && max < i) {
+                max = i;
+            }
+        }
+        dfa.push_back(max);
+    }
+    return dfa;
+}
+
+// kmp 算法
+int kmp(string str, string pat) {
+    vector<int> dfa = pmt(pat); // 计算部分匹配表
+    int j, i = 0;
+    int len_str = str.size();
+    int len_pat = pat.size();
+    while (j < len_str) {
+        if (str[j] == pat[i]) {
+            if (i == len_pat - 1) {
+                return j - len_pat + 1;
+            }
+            j++;
+            i++;
+        } else if (i > 0) { // 状态转移
+            i = dfa[i - 1];
+        } else {
+            j++;
+        }
+    }
+    return -1;
+}
+
+
+// 主函数
+int main() {
+    string str = "123234562476qvregerv";
+    string pat = "76qv";
+    cout << kmp(str, pat) << endl;
+    return 0;
+}
 ```
 
 ##### 链表
