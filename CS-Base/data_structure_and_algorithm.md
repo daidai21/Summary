@@ -99,32 +99,28 @@ def kmp(string_, pattern_):
 ##### 图
 
 - BFS
+
+
 - DFS
 
-- A*搜索算法
+- Dijkstra
 
 ```python
-'''
-Dijkstra 算法
-'''
 ```
 
-```python
-'''
-Floyd 算法
-'''
-```
+- Floyd
 
 ```python
-'''
-Prim 算法
-'''
 ```
 
+- Prim
+
 ```python
-'''
-Kruskal 算法
-'''
+```
+
+- Kruskal
+
+```python
 ```
 
 ### Algorithm
