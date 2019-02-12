@@ -43,7 +43,7 @@
 - [x] Modern-Opterate-System | Notes
 - [ ] PRML | Notes
 - [ ] Python-Cookbook
-- [ ] Python-Source-Analysis
+- [ ] Python-Source-Analysis
 - [ ] Linear-Algebra
 - [ ] DL-AI-Bible
 - [ ] ML-Mr-Zhou
