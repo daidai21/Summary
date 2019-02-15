@@ -1,4 +1,4 @@
-<center><h1>DaiDai's Interview</h1></center>
+<div align=center><h1>DaiDai's Interview</h1></div>
 
 <a href="../README.md">English</a> | <a href="doc/README-cn.md">中文</a>
 

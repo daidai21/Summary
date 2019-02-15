@@ -1,4 +1,4 @@
-<center><h1>呆呆’ 面试</h1></center>
+<div align=center><h1>呆呆’ 面试</h1></div>
 
 <a href="../README.md">English</a> | <a href="doc/README-cn.md">中文</a>
 
