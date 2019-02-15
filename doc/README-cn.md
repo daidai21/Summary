@@ -6,7 +6,7 @@
 
 ### 简介
 
-<center><img src="img/logo.png"></center>
+<div align="center"><img src="img/logo.png"></div>
 
 这个仓库是我自己的面试的笔记，也是我对自己所学知识的不断总结。我主要从事机器学习和数据科学等工作。但这个知识库还包括计算机科学基础、网站开发、数据挖掘、计算机视觉等一些知识。如果你认为这对你有帮助，我希望你可以 Star、Fork 或者 Watch。如果您有任何问题，可以随时联系我（Email: daidai4269@aliyun.com）。我非常欢迎你 Pull Requests 或者 Issues。
 

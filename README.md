@@ -6,7 +6,7 @@
 
 ### Introduction
 
-<center><img src="doc/img/logo.png"></center>
+<div align="center"><img src="doc/img/logo.png"></div>
 
 This repository is my own notes for the interview, as well as a continuous summary of what I have learned. I mainly work on machine learning and data science, etc. But this repository also includes some foundation of computer science, Web development, data mining, computer vision, etc. I hope you can star, fork or watch, if you think this will help you. You can contact me anytime, if you have any questions. I really welcome your Pull Requests or Issues. 
 
