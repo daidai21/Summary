@@ -32,7 +32,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 ##### 4-Datebase
 
 - [ ] Database-Base
-- [ ] SQL
+- [ ] SQL-Base
 - [ ] LeetCode-SQL | Code
 - [ ] MySql
 - [ ] Redis
@@ -53,14 +53,16 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Large-Scale-Distributed-Storage-System
 - [ ] Effective-C++
 - [ ] CSAPP
-- [ ] Statistical-Learning-Method
+- [ ] [Statistical-Learning-Method](https://github.com/daidai21/ML-Algorithm)
 - [ ] Nature-Of-Statistical-Learning
 - [ ] ML-Mr-Zhou
 - [ ] DL-AI-Bible
-- [ ] PRML
+- [ ] PRML[翻译版](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
+- [ ] MLAPP
+- [ ] ESL[翻译版](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
 - [ ] Linear-Algebra
 <!-- - [ ] Convex-Optimization -->
-<!-- - [ ] Nonlinear-Programming -->
+- [ ] Data-Mining-Introduction
 
 ##### 7-Other
 
