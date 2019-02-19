@@ -92,22 +92,6 @@ yield
   - [writing-Solid-Python-Code](https://www.fuweihu.xyz/2018/09/19/writing-Solid-Python-Code/)
   - [Effective-Python](https://www.fuweihu.xyz/2018/09/18/Effective-Python/)
 
-### Python Using
-
-###### Socket
-
-
-
-### 库
-
-- demjson、jsons
-- Django
-- Numpy
-- Pandas
-- Sklearn
-- Matplotlib
-- Tensorflow、Keras
-- OpenCV-Python
 
 ### Interview Problem
 
