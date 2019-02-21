@@ -52,14 +52,15 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Python-Source-Analysis
 - [ ] Large-Scale-Distributed-Storage-System
 - [ ] Effective-C++
+- [ ] C++ Primer
 - [ ] CSAPP
 - [ ] [Statistical-Learning-Method](https://github.com/daidai21/ML-Algorithm)
 - [ ] Nature-Of-Statistical-Learning
 - [ ] ML-Mr-Zhou
 - [ ] DL-AI-Bible
-- [ ] PRML[翻译版](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
+- [ ] PRML [Translation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
 - [ ] MLAPP
-- [ ] ESL[翻译版](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
+- [ ] ESL [Translation](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
 - [ ] Linear-Algebra
 <!-- - [ ] Convex-Optimization -->
 - [ ] Data-Mining-Introduction
@@ -73,6 +74,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 ##### 8-KDD-DS
 
 - [ ] DS-WorkFlow
+- [ ] Main-Model-Contrast
 
 ##### Resource
 
@@ -88,6 +90,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
 - [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 - [C/C++面试基础知识总结](https://github.com/huihut/interview#%E7%AE%97%E6%B3%95)
+- [后台开发核心知识](https://github.com/linw7/Skill-Tree)
 - And many book, blog, github, etc.
 
 ### Copyright
