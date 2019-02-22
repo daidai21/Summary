@@ -75,6 +75,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 - [ ] DS-WorkFlow
 - [ ] Main-Model-Contrast
+- [ ] [DataMining-Algorithm](https://github.com/daidai21/DataScience-Algorithm)
 
 ##### Resource
 
