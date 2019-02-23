@@ -51,8 +51,9 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Python-Cookbook
 - [ ] Python-Source-Analysis
 - [ ] Large-Scale-Distributed-Storage-System
-- [ ] Effective-C++
 - [ ] C++ Primer
+- [ ] Effective-C++
+- [ ] More-Effective-C++
 - [ ] CSAPP
 - [ ] [Statistical-Learning-Method](https://github.com/daidai21/ML-Algorithm)
 - [ ] Nature-Of-Statistical-Learning
@@ -74,7 +75,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 ##### 8-KDD-DS
 
 - [ ] DS-WorkFlow
-- [ ] Main-Model-Contrast
+- [ ] Main-Model
 - [ ] [DataMining-Algorithm](https://github.com/daidai21/DataScience-Algorithm)
 
 ##### Resource
