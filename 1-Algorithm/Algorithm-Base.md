@@ -1,13 +1,5 @@
 # Data Structure And Algorithm
 
-### Overview
-
-- Brush Problem Link
-  - [Nowcoder](https://www.nowcoder.com/)
-    - [剑指offer](https://www.nowcoder.com/ta/coding-interviews)
-    - ... ...
-  - [Leetcode-cn](https://leetcode-cn.com/)
-
 ### Data Structure
 
 ##### 数组
@@ -134,13 +126,6 @@ def kmp(string_, pattern_):
 
 - 回溯法 Backtracking 
 - 动态规划 Dynamic Programming 
-
-### Other Classical Algorithm
-
-- 
-
-### Interview Classical Problem
-
 
 
 ***
