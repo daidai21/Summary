@@ -417,11 +417,6 @@ https://www.zhihu.com/question/41354392
 
 - [鱼遇雨欲语与余 | 武汉大学](https://www.zhihu.com/people/wang-he-13-93/activities)
 
-
-
-
-
-- https://zhuanlan.zhihu.com/p/32877396
-- https://www.zhihu.com/question/27306416
+- [常用的机器学习算法比较？ | 知乎](https://www.zhihu.com/question/27306416)
 - https://www.zhihu.com/question/34470160/answer/114305935
 - http://kubicode.me/2015/08/16/Machine%20Learning/Algorithm-Summary-for-Interview/
