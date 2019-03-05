@@ -503,7 +503,7 @@ LDA(n_components=2).fit_transform(iris.data, iris.target)
     - 随机森林
     - 感知机
     - 等。
-  - 常见的生产模型有：
+  - 常见的生成模型有：
     - 隐马尔科夫模型
     - 朴素贝叶斯模型
     - 高斯混合模型

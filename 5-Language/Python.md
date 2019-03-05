@@ -77,10 +77,12 @@ yield
 
 - 函数式编程
 
+- `map` 函数和 `reduce` 函数
 
 
 
-### python and cpp（or c）
+
+### Python & C++/C
 
 - SWIG
 - ctypes
@@ -91,14 +93,3 @@ yield
 - Python optimize
   - [writing-Solid-Python-Code](https://www.fuweihu.xyz/2018/09/19/writing-Solid-Python-Code/)
   - [Effective-Python](https://www.fuweihu.xyz/2018/09/18/Effective-Python/)
-
-
-### Interview Problem
-
-- 分别用__new__方法和装饰器实现单例模式
-
-- 简述Python的作用域以及Python搜索变量的顺序
-
-- 可变与不可变类型；
-- 编码和解码你了解过么；
-- range和xrange的区别（他妹的我学的py3…）

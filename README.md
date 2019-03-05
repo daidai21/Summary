@@ -53,15 +53,18 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Main-Model
 - [ ] [DataMining-Algorithm](https://github.com/daidai21/DataScience-Algorithm)
 
-### 7-Other ![Icon-Other](doc/img/Icon-Other.png)
+### 7-DL(CV) ![](doc/img/Icon-DL(CV).png)
+
+- [ ] ...
+
+### 8-Other ![Icon-Other](doc/img/Icon-Other.png)
 
 - [ ] [System-Design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
 - [ ] Git
 - [ ] [Google Code Style](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 
 
-
-### 8-Book—Abstract ![Icon-Book-Abstract](doc/img/Icon-Book-Abstract.png)
+### 9-Book—Abstract ![Icon-Book-Abstract](doc/img/Icon-Book-Abstract.png)
 
 Computer Base
 
