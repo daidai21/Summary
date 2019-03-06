@@ -93,7 +93,7 @@ Language
 
 System Design
 
-- [ ] Large-Scale-Distributed-Storage-System
+- [ ] 大型网站技术架构
 
 Math
 
@@ -109,14 +109,15 @@ Machine Learning
 - [ ] PRML [Translation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
 - [ ] MLAPP
 - [ ] ESL [Translation](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
-- [ ] Data-Mining-Introduction
 
-## Resource ![Icon-Resource](doc/img/Icon-Resource.png)
+啤酒与尿布
+Building Machine Learning Systems with Python
+数据挖掘导论
+Recommender Systems: The Textbook
+移动数据挖掘
+集体编程智慧
+大型分布式存储系统
 
-- [x] [C++参考手册](Resource/)
-- [x] [背包九讲](Resource/背包九讲.pdf)
-- [x] [计算机网络脑图](Resource/计算机网络脑图.png)
-- [x] [AI-Math](Resource/AI-Math.pdf)
 
 ## Link ![Icon-Link](doc/img/Icon-Link.png)
 
