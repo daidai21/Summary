@@ -131,3 +131,5 @@ Recommender Systems: The Textbook
 ## Copyright ![Icon-Copyright](doc/img/Icon-Copyright.png)
 
 - You can look, fork or reprint, but the copyright belongs to individual, reprint please indicate the source.`daidai21@github`
+
+主要是专业相关的主要知识和重要的资源（不重要的列名称和url就好）以及计算机基础
