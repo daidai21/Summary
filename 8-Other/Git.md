@@ -20,20 +20,20 @@ Github 就是一个中心服务器。
 
 - 工作流
 
-![](git_img/工作流.jpg)
+![](Git-Img/工作流.jpg)
 
 新建一个仓库之后，当前目录就成为了工作区，工作区下有一个隐藏目录 .git，它属于 Git 的版本库。
 
 Git 版本库有一个称为 stage 的暂存区，还有自动创建的 master 分支以及指向分支的 HEAD 指针。
 
-![](git_img/1.png)
+![](Git-Img/1.png)
 
 `git add files` 把文件的修改添加到暂存区
 `git commit` 把暂存区的修改提交到当前分支，提交之后暂存区就被清空了
 `git reset -- files` 使用当前分支上的修改覆盖暂存区，用来撤销最后一次 git add files
 `git checkout -- files` 使用暂存区的修改覆盖工作目录，用来撤销本地修改
 
-![](git_img/2.png)
+![](Git-Img/2.png)
 
 
 可以跳过暂存区域直接从分支中取出修改，或者直接提交修改到分支中。
@@ -45,25 +45,25 @@ Git 版本库有一个称为 stage 的暂存区，还有自动创建的 master �
 
 使用指针将每个提交连接成一条时间线，HEAD 指针指向当前分支指针。
 
-![](git_img/fb546e12-e1fb-4b72-a1fb-8a7f5000dce6.jpg)
+![](Git-Img/fb546e12-e1fb-4b72-a1fb-8a7f5000dce6.jpg)
 
 新建分支是新建一个指针指向时间线的最后一个节点，并让 HEAD 指针指向新分支表示新分支成为当前分支。
 
-![](git_img/bc775758-89ab-4805-9f9c-78b8739cf780.jpg)
+![](Git-Img/bc775758-89ab-4805-9f9c-78b8739cf780.jpg)
 
 每次提交只会让当前分支指针向前移动，而其它分支指针不会移动。
 
-![](git_img/5292faa6-0141-4638-bf0f-bb95b081dcba.jpg)
+![](Git-Img/5292faa6-0141-4638-bf0f-bb95b081dcba.jpg)
 
 合并分支也只需要改变指针即可。
 
-![](git_img/1164a71f-413d-494a-9cc8-679fb6a2613d.jpg)
+![](Git-Img/1164a71f-413d-494a-9cc8-679fb6a2613d.jpg)
 
 - 冲突
 
 当两个分支都对同一个文件的同一行进行了修改，在分支合并时就会产生冲突。
 
-![](git_img/58e57a21-6b6b-40b6-af85-956dd4e0f55a.jpg)
+![](Git-Img/58e57a21-6b6b-40b6-af85-956dd4e0f55a.jpg)
 
 Git 会使用 <<<<<<< ，======= ，>>>>>>> 标记出不同分支的内容，只需要把不同分支中冲突部分修改成一样就能解决冲突。
 
@@ -84,7 +84,7 @@ Creating a new branch is quick AND simple.
 ```
 $ git merge --no-ff -m "merge with no-ff" dev
 ```
-![](git_img/dd78a1fe-1ff3-4bcf-a56f-8c003995beb6.jpg)
+![](Git-Img/dd78a1fe-1ff3-4bcf-a56f-8c003995beb6.jpg)
 
 <div align="center"> <img src="pics/dd78a1fe-1ff3-4bcf-a56f-8c003995beb6.jpg"/> </div><br>
 
@@ -93,7 +93,7 @@ $ git merge --no-ff -m "merge with no-ff" dev
 master 分支应该是非常稳定的，只用来发布新版本；
 
 日常开发在开发分支 dev 上进行。
-![](git_img/245fd2fb-209c-4ad5-bc5e-eb5664966a0e.jpg)
+![](Git-Img/245fd2fb-209c-4ad5-bc5e-eb5664966a0e.jpg)
 
 - 储藏（Stashing）
 
@@ -131,9 +131,9 @@ $ ssh-keygen -t rsa -C "youremail@example.com"
 
 - Git 命令一览
 
-![](git_img/git.png)
+![](Git-Img/git.png)
 
-![](git_img/7a29acce-f243-4914-9f00-f2988c528412.jpg)
+![](Git-Img/7a29acce-f243-4914-9f00-f2988c528412.jpg)
 
 - 图形化
   - `gitk`  内建的图形化 git

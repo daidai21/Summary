@@ -51,9 +51,9 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 - [ ] DS-WorkFlow
 - [ ] Main-Model
-- [ ] [DataMining-Algorithm](https://github.com/daidai21/DataScience-Algorithm)
+- [ ] [DataMining-Algorithm-In-Action](https://github.com/daidai21/DataScience-Algorithm)
 
-### 7-DL(CV) ![](doc/img/Icon-DL(CV).png)
+### 7-DL ![](doc/img/Icon-DL(CV).png)
 
 - [ ] ...
 
