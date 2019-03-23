@@ -55,7 +55,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 ### 7-DL ![](doc/img/Icon-DL(CV).png)
 
-- [ ] ...
+- [ ] OpenCV
 
 ### 8-Other ![Icon-Other](doc/img/Icon-Other.png)
 
@@ -85,6 +85,9 @@ DataBase
 
 Language
 
+- [ ] python优化
+- [ ] python科学家
+- [ ] 
 - [ ] Python-Source-Analysis
 - [ ] C++ Primer
 - [ ] Effective-C++
@@ -93,7 +96,7 @@ Language
 
 System Design
 
-- [ ] 大型网站技术架构
+- [x] 大型网站技术架构
 
 Math
 
@@ -102,21 +105,17 @@ Math
 
 Machine Learning
 
+- [ ] [Data Mining: Practical Machine Learning Tools and Techniques](6-Book-Abstract/Data-Mining/README.md)
 - [ ] [Statistical-Learning-Method](https://github.com/daidai21/ML-Algorithm)
 - [ ] Nature-Of-Statistical-Learning
 - [ ] ML-Mr-Zhou
-- [ ] DL-AI-Bible
 - [ ] PRML [Translation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
 - [ ] MLAPP
 - [ ] ESL [Translation](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
 
-啤酒与尿布
-Building Machine Learning Systems with Python
-数据挖掘导论
-Recommender Systems: The Textbook
-移动数据挖掘
-集体编程智慧
-大型分布式存储系统
+Deep Learning
+
+- [ ] DL-AI-Bible
 
 
 ## Link ![Icon-Link](doc/img/Icon-Link.png)
