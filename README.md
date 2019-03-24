@@ -92,7 +92,7 @@ Language
 - [ ] C++ Primer
 - [ ] Effective-C++
 - [ ] More-Effective-C++
-- [ ] Python-Cookbook
+- [ ] [Python-Cookbook](https://github.com/daidai21/Python-CookBook)
 
 System Design
 
