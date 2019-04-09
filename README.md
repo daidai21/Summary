@@ -85,14 +85,16 @@ DataBase
 
 Language
 
+    Python
 - [ ] python优化
 - [ ] python科学家
 - [ ] 
 - [ ] Python-Source-Analysis
+- [ ] [Python-Cookbook](https://github.com/daidai21/Python-CookBook)
+    C++
 - [ ] C++ Primer
 - [ ] Effective-C++
 - [ ] More-Effective-C++
-- [ ] [Python-Cookbook](https://github.com/daidai21/Python-CookBook)
 
 System Design
 
