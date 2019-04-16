@@ -66,46 +66,57 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 ### 9-Book—Abstract ![Icon-Book-Abstract](doc/img/Icon-Book-Abstract.png)
 
-Computer Base
+<details><summary>Computer Base</summary>
 
 - [ ] CSAPP
 <!-- - [ ] SCIP -->
 
-Algorithm
+</details>
 
-Opterate System
+<details><summary>Algorithm</summary>
+
+</details>
+
+<details><summary>Opterate System</summary>
 
 - [x] [Modern-Opterate-System](6-Book-Abstract/Modern-Opterate-System/README.md)
+</details>
 
-Network
+<details><summary>Network</summary>
 
 - [ ] [Computer Network: Top-Down](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
+</details>
 
-DataBase
+<details><summary>DataBase</summary>
+</details>
 
-Language
+<details><summary>Language</summary>
 
-    Python
-- [ ] python优化
-- [ ] python科学家
-- [ ] 
-- [ ] Python-Source-Analysis
-- [ ] [Python-Cookbook](https://github.com/daidai21/Python-CookBook)
-    C++
-- [ ] C++ Primer
-- [ ] Effective-C++
-- [ ] More-Effective-C++
+- Python
+  - [ ] python优化
+  - [ ] python科学家
+  - [ ] 
+  - [ ] Python-Source-Analysis
+  - [ ] [Python-Cookbook](https://github.com/daidai21/Python-CookBook)
+- C++
+  - [ ] C++ Primer
+  - [ ] Effective-C++
+  - [ ] More-Effective-C++
+  - [ ] STL Source Analyzer
+</details>
 
-System Design
+<details><summary>System Design</summary>
 
 - [x] 大型网站技术架构
+</details>
 
-Math
+<details><summary>Math</summary>
 
 - [ ] Linear-Algebra
 <!-- - [ ] Convex-Optimization -->
+</details>
 
-Machine Learning
+<details><summary>Machine Learning</summary>
 
 - [ ] [Data Mining: Practical Machine Learning Tools and Techniques](6-Book-Abstract/Data-Mining/README.md)
 - [ ] [Statistical-Learning-Method](https://github.com/daidai21/ML-Algorithm)
@@ -114,11 +125,17 @@ Machine Learning
 - [ ] PRML [Translation](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=http%3A%2F%2Fread.pudn.com%2Fdownloads773%2Febook%2F3064783%2FPRML_Translation.pdf)
 - [ ] MLAPP
 - [ ] ESL [Translation](https://esl.hohoweiya.xyz/01-Introduction/2016-07-26-Chapter-1-Introduction/index.html)
+</details>
 
-Deep Learning
-
+<details><summary>Deep Learning</summary>
 - [ ] DL-AI-Bible
+</details>
 
+<details><summary>Other</summary>
+
+- [ ] 代码大全
+- [ ] 百面机器学习
+</details>
 
 ## Link ![Icon-Link](doc/img/Icon-Link.png)
 
