@@ -113,6 +113,9 @@ This repository is my own notes for the interview, as well as a continuous summa
 <details><summary>Math</summary>
 
 - [ ] Linear-Algebra
+- [ ] 离散数学
+- [ ] 概率论与数理统计
+- [ ] 微积分
 <!-- - [ ] Convex-Optimization -->
 </details>
 
@@ -149,5 +152,3 @@ This repository is my own notes for the interview, as well as a continuous summa
 ## Copyright ![Icon-Copyright](doc/img/Icon-Copyright.png)
 
 - You can look, fork or reprint, but the copyright belongs to individual, reprint please indicate the source.`daidai21@github`
-
-主要是专业相关的主要知识和重要的资源（不重要的列名称和url就好）以及计算机基础
