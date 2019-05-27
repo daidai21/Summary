@@ -47,15 +47,19 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Object-Oriented
 - [ ] Design-Mode
 
-### 6-KDD-DS ![Icon-KDD-DS](doc/img/Icon-KDD-DS.png)
+### 6-Math ![Math](doc/img/Icon-KDD-DS.png)
 
+- [ ] Calculus
+- [ ] Linear-Algebra
+- [ ] Probability-Theory-and-Mathematical-Statistics
+- [ ] Optimize
+
+### 7-ML ![](doc/img/Icon-DL(CV).png)
+
+- [ ] OpenCV
 - [ ] DS-WorkFlow
 - [ ] Main-Model
 - [ ] [DataMining-Algorithm-In-Action](https://github.com/daidai21/DataScience-Algorithm)
-
-### 7-DL ![](doc/img/Icon-DL(CV).png)
-
-- [ ] OpenCV
 
 ### 8-Other ![Icon-Other](doc/img/Icon-Other.png)
 
