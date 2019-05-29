@@ -14,14 +14,14 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 ### 1-Algorithm ![Icon-Algorithm](doc/img/Icon-Algorithm.png)
 
-- [ ] [Algorithm-Base](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E7%AE%97%E6%B3%95.md)
-- [x] [剑指offer | Code](1-Algorithm/剑指offer.md)
+- [ ] Algorithm-Base
+- [剑指offer | Code](1-Algorithm/剑指offer.md)
 - [ ] [LeetCode | Code](https://github.com/daidai21/leetcode)
 
 ### 2-Opterate-System ![Icon-Opterate-System](doc/img/Icon-Opterate-System.png)
 
 - [ ] Opterate-System-Base
-- [ ] Linux
+- [Linux](http://www.runoob.com/linux/linux-tutorial.html)
 
 ### 3-Network ![Icon-Network](doc/img/Icon-Network.png)
 
@@ -32,18 +32,18 @@ This repository is my own notes for the interview, as well as a continuous summa
 ### 4-Datebase ![Icon-DataBase](doc/img/Icon-DataBase.png)
 
 - [ ] Database-Base
-- [ ] SQL-Base (Refer to one of the following)
-  - [菜鸟教程 | SQL教程](http://www.runoob.com/sql/sql-tutorial.html)
-  - [W3Cschool | SQL教程](https://www.w3cschool.cn/sql/)
-  - [易百教程 | SQL教程](https://www.yiibai.com/sql/)
+- [SQL-Base](https://www.w3cschool.cn/sql/)
 - [ ] LeetCode-SQL | Code
 - [ ] MySql
 - [ ] Redis
 
 ### 5-Language ![Icon-Language](doc/img/Icon-Language.png)
 
-- [ ] Python
+- [Python](http://www.runoob.com/python3/python3-tutorial.html)
 - [ ] C++
+  - [C++](http://www.runoob.com/cplusplus/cpp-tutorial.html)
+  - [ ] Cmake
+  - [ ] [C++_LibraryQuickSearchManual](5-Language/C++_LibraryQuickSearchManual.md)
 - [ ] Object-Oriented
 - [ ] Design-Mode
 
@@ -57,6 +57,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 ### 7-ML ![](doc/img/Icon-DL(CV).png)
 
 - [ ] OpenCV
+- [ ] Spark
 - [ ] DS-WorkFlow
 - [ ] Main-Model
 - [ ] [DataMining-Algorithm-In-Action](https://github.com/daidai21/DataScience-Algorithm)
@@ -74,6 +75,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 - [ ] CSAPP
 <!-- - [ ] SCIP -->
+编译原理
 
 </details>
 
@@ -142,6 +144,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 
 - [ ] 代码大全
 - [ ] 百面机器学习
+- [ ] 重构 改善既有代码
 </details>
 
 ## Link ![Icon-Link](doc/img/Icon-Link.png)
