@@ -52,7 +52,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] Calculus
 - [ ] Linear-Algebra
 - [ ] Probability-Theory-and-Mathematical-Statistics
-- [ ] Optimize
+- [ ] Convex-Optimize
 
 ### 7-ML ![](doc/img/Icon-DL(CV).png)
 
@@ -123,6 +123,8 @@ This repository is my own notes for the interview, as well as a continuous summa
 - [ ] 概率论与数理统计
 - [ ] 微积分
 <!-- - [ ] Convex-Optimization -->
+- 凸优化
+- 非线性规划
 </details>
 
 <details><summary>Machine Learning</summary>
