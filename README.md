@@ -1,7 +1,5 @@
 <div align=center><h1>DaiDai's Interview</h1></div>
 
-<a href="../README.md">English</a> | <a href="doc/README-cn.md">中文</a>
-
 **Instructions**: This repository is still being updated!
 
 ## Introduction
@@ -10,28 +8,30 @@
 
 This repository is my own notes for the interview, as well as a continuous summary of what I have learned. I mainly work on machine learning and data science, etc. But this repository also includes some foundation of computer science, Web development, data mining, computer vision, etc. I hope you can star, fork or watch, if you think this will help you. You can contact me anytime, if you have any questions. I really welcome your Pull Requests or Issues. 
 
+**discussion knowedge graph**
+
 ## List
 
 ### 1-Algorithm ![Icon-Algorithm](doc/img/Icon-Algorithm.png)
 
-- [ ] Algorithm-Base
+- [ ] Algorithm
 - [剑指offer | Code](1-Algorithm/剑指offer.md)
 - [ ] [LeetCode | Code](https://github.com/daidai21/leetcode)
 
 ### 2-Opterate-System ![Icon-Opterate-System](doc/img/Icon-Opterate-System.png)
 
-- [ ] Opterate-System-Base
+- [ ] Opterate-System
 - [Linux](http://www.runoob.com/linux/linux-tutorial.html)
 
 ### 3-Network ![Icon-Network](doc/img/Icon-Network.png)
 
-- [ ] Network-Base
+- [ ] Network
 - [ ] Http
 - [ ] Socket
 
 ### 4-Datebase ![Icon-DataBase](doc/img/Icon-DataBase.png)
 
-- [ ] Database-Base
+- [ ] Database
 - [SQL-Base](https://www.w3cschool.cn/sql/)
 - [ ] LeetCode-SQL | Code
 - [ ] MySql
@@ -65,6 +65,7 @@ This repository is my own notes for the interview, as well as a continuous summa
 ### 8-Other ![Icon-Other](doc/img/Icon-Other.png)
 
 - [ ] [System-Design](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+- [ ] DesignPattern
 - [ ] Git
 - [ ] [Google Code Style](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 

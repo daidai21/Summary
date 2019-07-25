@@ -1,5 +1,6 @@
 - data structure
-
+  - adjacency list
+  - adjacency matrix
 
 
 ***
