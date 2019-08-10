@@ -1,6 +1,4 @@
-# Database Base
 
-### Overview
 
 - 关系型数据库
     - mysql 原理
@@ -8,15 +6,8 @@
     - redis
     - mangodb 图数据库
 
-- Redis 与 Memcached
+- Sql
 
-- 多版本并发控制，MVCC
-
-### Sql
-
-
-
-### Database 原理
 
 - ACID：
   - 原子性（Atomicity）
