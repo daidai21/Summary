@@ -51,6 +51,9 @@
 
 - divide and conquer
 - dynamic programming (DP)
+    - one/two/three variables
+    - one-dimensional matrix
+    - two-dimensional matrix
 - greedy
 - arrangement combination
 - state compression
@@ -64,6 +67,7 @@
     - binary search
     - merge search
     - quick sort
+- deterministic finite automaton (DFA)
 
 ***
 
@@ -72,4 +76,9 @@
     - sliding window 
     - fast and slow pointer
     - two heap (min heap and max heap)
+    - time limit exceeded: (using space change to time) dict, set, list, etc.
+    - space limit exceeded: (using time change to space) 
+    - two stack == one queue
+    - one/two queue == one stack
+
 
