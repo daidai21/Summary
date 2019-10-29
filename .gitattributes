@@ -1,8 +1,0 @@
-# language settings
-
-*.py linguist-language=python
-*.md linguist-language=markdown
-*.cpp linguist-language=c++
-*.cc linguist-language=c++
-*.sql linguist-language=sql
-*.sh linguist-language=shell
