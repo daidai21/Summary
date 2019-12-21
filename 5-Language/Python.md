@@ -23,3 +23,7 @@ sudo pip install virtualenvwrapper
 ```
 
 conda建立虚拟环境
+
+pyenv 切换版本
+
+pipenv 切换版本
